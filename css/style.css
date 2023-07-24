@@ -985,9 +985,10 @@ header nav .toggle-menu {
 #footer .container .copyright {
   margin-top: 60px;
 }
-#footer .container .copyright span {
+#footer .container .copyright span,a {
   color: #19c8fa;
   font-weight: bold;
+  text-decoration: none;
 }
 #footer .container .socail-icons a {
   padding: 15px;
